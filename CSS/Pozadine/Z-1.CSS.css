@@ -1,0 +1,17 @@
+h1{
+    background-color: #A80000;
+    text-align: center;
+}
+body{
+    background-color: #E00000;
+    background-repeat: no-repeat;
+    background-position:10px 100px;
+    background-attachment: fixed;
+    /*background-repeat: repeat-x;
+    background-repeat: repeat-y;*/
+    background-image: url("https://www.carnet.hr/wp-content/themes/carnet/assets/img/logo.svg")
+}
+p{
+    background-color: #E00000;
+
+}
