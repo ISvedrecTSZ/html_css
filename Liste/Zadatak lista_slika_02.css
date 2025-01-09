@@ -1,0 +1,9 @@
+ul li{
+    background-color: aqua;
+}
+ul {
+    background-color: azure;
+}
+ol{
+    list-style-image: url("te.jpg");
+}

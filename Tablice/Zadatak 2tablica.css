@@ -1,0 +1,15 @@
+table,td,tr{
+    border: 5px groove deepskyblue;
+    text-align: right;
+    vertical-align: bottom;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+table{
+    height: 50px;
+}
+td:hover{
+    background-color: yellowgreen;
+}
